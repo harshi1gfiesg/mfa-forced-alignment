@@ -51,4 +51,3 @@ The generated TextGrid files were inspected using Praat. Word boundaries aligned
 - `normalize.py` – Transcript normalization script
 - `g2p.dict` – Generated pronunciation dictionary
 - `output/` – Alignment results (TextGrid files)
-- `MFA_Forced_Alignment_Report.docx` – Final report
